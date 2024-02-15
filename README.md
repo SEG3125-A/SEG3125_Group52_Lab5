@@ -5,7 +5,7 @@ icons added to:
 - Meet our barbers
 - Date
 - Time
-– Cardholder's Name (Payment)
+- Cardholder's Name (Payment)
 - Get In Touch
 ------------------------------
 Group number: 52
