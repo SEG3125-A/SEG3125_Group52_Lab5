@@ -1,8 +1,8 @@
 # SEG3125_Group52_Lab5
 -----------------------
 icons added to:
-– Here are our services
-– Meet our barbers
+- Here are our services
+- Meet our barbers
 - Date
 - Time
 – Cardholder's Name (Payment)
