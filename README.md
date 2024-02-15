@@ -1,6 +1,6 @@
 # SEG3125_Group52_Lab5
 -----------------------
-icons added to:
+Icons added to:
 - Here are our services
 - Meet our barbers
 - Date
